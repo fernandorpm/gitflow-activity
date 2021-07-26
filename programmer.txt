@@ -1,2 +1,1 @@
-First, solve the problem. Then, write the code.
-crosing should be crossing
+First, solve the problem. Then, write the code. - Doug Linder
